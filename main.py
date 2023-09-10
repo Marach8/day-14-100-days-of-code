@@ -19,6 +19,6 @@ elif player_1 == player_2:
 if player_2 == 'R' and player_1 == 'P':
   print("Hey! player_2's Rock Smashed Player_1's Paper")
 elif player_2 == 'R' and player_1 == 'S':
-  print("Huh! a Rock and a Scissors are both hard materials. That should be a tie 😊")
+  print("Huh! a Rock and a Scissors are both hard materials. That should be a tie")
 elif player_2 == 'P' and player_1 == 'S':
   print("Player_1 has won!")
